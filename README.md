@@ -41,3 +41,23 @@ The frames are then transmitted to a lightweight native host (built in C++ with 
 
 ## 📂 Project Structure
 
+C:\TabCaster
+│
+├─ extension\ # Chrome/Edge extension files
+│ ├─ manifest.json
+│ ├─ popup.html
+│ ├─ popup.js
+│ ├─ background.js
+│ └─ icons
+│
+├─ host-cpp\ # Native C++ NDI bridge
+│ ├─ main.cpp
+│ ├─ .vscode\tasks.json
+│ └─ build
+│
+├─ host\ # Optional: Python reference host
+│ └─ ndi_host.py
+│
+├─ register_host.ps1 # Registers Chrome Native Messaging host
+├─ com.tabcaster.host.json # Native Messaging manifest
+└─ LICENSE
