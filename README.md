@@ -1,3 +1,27 @@
+<div align="center">
+  <img src="https://github.com/AutomateProduction/tabcaster/assets/header.png" width="600" alt="TabCaster Logo" />
+
+  <h1>🎥 TabCaster</h1>
+  <p><b>Turn any browser tab into a live NDI® source — low latency, no screen capture.</b></p>
+
+  <a href="https://ndi.video/download-ndi-sdk/">
+    <img src="https://img.shields.io/badge/NDI%20SDK-Required-blue?style=for-the-badge&logo=NDI" />
+  </a>
+  <a href="https://developer.chrome.com/docs/extensions/">
+    <img src="https://img.shields.io/badge/Chrome%20Extension-Manifest%20v3-green?style=for-the-badge&logo=googlechrome" />
+  </a>
+  <a href="LICENSE">
+    <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge" />
+  </a>
+
+  <br><br>
+  <img src="https://github.com/yourusername/tabcaster/assets/demo.gif" width="720" alt="TabCaster demo preview" />
+  <br>
+  <sub><i>Stream web apps, dashboards, or animations into OBS, vMix, or NDI Studio Monitor instantly.</i></sub>
+</div>
+
+---
+
 # 🎥 TabCaster – Stream Your Browser Tabs to NDI
 
 **TabCaster** transforms any Chromium-based browser tab (Chrome, Edge, or Brave) into a real-time **NDI® source**, allowing seamless integration of web content into professional video workflows — without traditional screen capture or encoding overhead.
@@ -86,7 +110,6 @@ Users must install the SDK independently before building or running TabCaster.
 
 ---
 
-❤️ Credits
-
-Built with passion and innovation.
-Thanks be to God for the wisdom and clarity guiding this project. 🙏
+<p align="center">
+  <i>TabCaster © 2025 – Made with ❤️ and innovation. Thanks be to God.</i>
+</p>
