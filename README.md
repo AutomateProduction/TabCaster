@@ -62,6 +62,30 @@ C:\TabCaster
 ├─ com.tabcaster.host.json # Native Messaging manifest
 └─ LICENSE
 
+---
+
+⚖️ License & Legal Notice
+
+TabCaster is licensed under the MIT License
+.
+
+You may freely use, modify, and distribute this source code, provided all copies include the license notice.
+
+NDI® Notice
+
+This project integrates with the NDI® 6 SDK by Vizrt/NewTek.
+
+NDI® is a registered trademark of Vizrt.
+The NDI SDK and associated binaries are not open source and are distributed separately under Vizrt’s EULA.
+
+Users must download and install the official NDI SDK from:
+👉 https://ndi.video/download-ndi-sdk/
+
+This repository does not include or redistribute any NDI SDK files.
+Users must install the SDK independently before building or running TabCaster.
+
+---
+
 ❤️ Credits
 
 Built with passion and innovation.
