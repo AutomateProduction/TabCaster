@@ -61,3 +61,8 @@ C:\TabCaster
 ├─ register_host.ps1 # Registers Chrome Native Messaging host
 ├─ com.tabcaster.host.json # Native Messaging manifest
 └─ LICENSE
+
+❤️ Credits
+
+Built with passion and innovation.
+Thanks be to God for the wisdom and clarity guiding this project. 🙏
