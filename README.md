@@ -1,7 +1,11 @@
 <div align="center">
-  <img src="assets/TabCaster_banner-white.png" width="600" alt="TabCaster Logo" />
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/TabCaster_banner-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="assets/TabCaster_banner-white.png">
+  <img alt="TabCaster banner" src="assets/TabCaster_banner-white.png" width="600">
+</picture>
 
-  <h1>TabCaster</h1>
+<h1>TabCaster</h1>
   <p><b>Turn any browser tab into a live NDI® source — low latency, no screen capture.</b></p>
 
   <a href="https://ndi.video/download-ndi-sdk/">
@@ -22,7 +26,7 @@
 
 ---
 
-# 🎥 TabCaster – Stream Your Browser Tabs to NDI
+# 🛜 TabCaster – Stream Your Browser Tabs to NDI
 
 **TabCaster** transforms any Chromium-based browser tab (Chrome, Edge, or Brave) into a real-time **NDI® source**, allowing seamless integration of web content into professional video workflows — without traditional screen capture or encoding overhead.
 
@@ -88,22 +92,15 @@ C:\TabCaster
 
 ---
 
-⚖️ License & Legal Notice
+## ⚖️ License
 
-TabCaster is licensed under the MIT License
-.
+This project is licensed under the **MIT License** — see [LICENSE](LICENSE) for details.
 
-You may freely use, modify, and distribute this source code, provided all copies include the license notice.
+**NDI® Notice:**  
+This project integrates with the NDI® 6 SDK by Vizrt/NewTek.  
+NDI® is a registered trademark of Vizrt. You must download and install  
+the official SDK separately from [ndi.video/download-ndi-sdk](https://ndi.video/download-ndi-sdk/).
 
-NDI® Notice
-
-This project integrates with the NDI® 6 SDK by Vizrt/NewTek.
-
-NDI® is a registered trademark of Vizrt.
-The NDI SDK and associated binaries are not open source and are distributed separately under Vizrt’s EULA.
-
-Users must download and install the official NDI SDK from:
-👉 https://ndi.video/download-ndi-sdk/
 
 This repository does not include or redistribute any NDI SDK files.
 Users must install the SDK independently before building or running TabCaster.
