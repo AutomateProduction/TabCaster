@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://github.com/AutomateProduction/tabcaster/assets/header.png" width="600" alt="TabCaster Logo" />
+  <img src="assets/TabCaster_banner-white.png" width="600" alt="TabCaster Logo" />
 
-  <h1>🎥 TabCaster</h1>
+  <h1>TabCaster</h1>
   <p><b>Turn any browser tab into a live NDI® source — low latency, no screen capture.</b></p>
 
   <a href="https://ndi.video/download-ndi-sdk/">
